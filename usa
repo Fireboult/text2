@@ -1,0 +1,6 @@
+text='mississippi is in usa'
+i=0
+while i <len(text):
+    print(text[i],end=' ')
+    i +=1
+    
